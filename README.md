@@ -24,7 +24,7 @@ Shashank Sethi  - B14232
 - The ping RTT stays low except spiking around noon , which is explained by increased number of students checking mail after classes.
 - CPU load remains low in early morning and then abruptly increases around 11:00 AM to reach a steady value which is explained by more students using webmail after classes.
 - The RAM Used keeps on decreasing since the user requests become less file intensive and low memory is used.
-- User load is very less in the morning hours, and reaches as high as 250 in the afternoon. This is consistent with the reasons for above observations.
+- User load is very less in the morning hours, and reaches as high as 500 in the afternoon. This is consistent with the reasons for above observations.
 [<img src="https://github.com/bittikarwasara/systemprac/blob/master/thu_stu.png">](thu_stu.png)
 
 
