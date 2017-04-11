@@ -46,7 +46,7 @@ Shashank Sethi  - B14232
 ####  WEBSITE : insite.iitmandi.ac.in
 ****
 - The RTT averages around 12 ms and most of the values are low because it is an saturday morning and most of the students will sleep till late resulting in a low network congestion.
-- After the CPU drop at around 3:00 AM the graph for CPU LOAD keeps on rising till 2:00 PM because as more users log in to insite and more requests keep on coming the processing load increases.
+- The graph for CPU LOAD keeps on rising till 2:00 PM because as more users log in to insite and more requests keep on coming the processing load increases.
 - The RAM usage remains low in early mornings and increases around morning arriving steadily at an constant value in noon , due to late morning moodle usage.
 - User load increases in the later half, not because of class schedules, but because it is a non-working day.
 
